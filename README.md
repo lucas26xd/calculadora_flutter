@@ -1,2 +1,2 @@
 # calculadora_flutter
- Calculadora Simples para estudo de Flutter
+ Calculadora Simples de início dos meus estudos de Flutter
